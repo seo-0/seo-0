@@ -51,7 +51,8 @@ Here are some ideas to get you started:
   
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-0&show_icons=true&theme=solarized-light)
- 
+
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-0&layout=compact">
   
 </div>
