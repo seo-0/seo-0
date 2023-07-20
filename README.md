@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-0&layout=compact">
+
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 //Oracle
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
