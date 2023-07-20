@@ -52,10 +52,10 @@ Here are some ideas to get you started:
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-0&show_icons=true&theme=solarized-light)
  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-0&layout=compact">
   
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-0&layout=compact">
 
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 //Oracle
