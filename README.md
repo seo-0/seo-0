@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Tessa's%20log&fontSize=50) 
  <br/>
+
+Contact by using Email : <strong>lilianapsy@naver.com<strong>
   
 ####  :clipboard: Languages and Framework that I've Used ✨
   
