@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 💬 Contact by using Email : <strong>lilianapsy@naver.com<strong>💬 
   
 ####  :clipboard: Languages and Framework that I've Used ✨
-  
  <br/>
-
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=aqua">
@@ -38,13 +36,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <br/>
   
-####  :clipboard:  🌱 and,, now My actual Tech stack is here🌱 
+####  :🌱 and,, now My actual Tech stack is here🌱 
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=green">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <br/>
-
 
 <br/>
 <br/>
