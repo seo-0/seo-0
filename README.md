@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Tessa's%20log&fontSize=50) 
  <br/>
 
-Contact by using Email : <strong>lilianapsy@naver.com<strong>
+💬 Contact by using Email : <strong>lilianapsy@naver.com<strong>💬 
   
 ####  :clipboard: Languages and Framework that I've Used ✨
   
@@ -31,12 +31,20 @@ Contact by using Email : <strong>lilianapsy@naver.com<strong>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=aqua">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=pink">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <br/>
-  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=orange">
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=green">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=orange">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <br/>
+  
+####  :clipboard:  🌱 and,, now My actual Tech stack is here🌱 
+<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=green">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <br/>
+
 
 <br/>
 <br/>
