@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2377CF35&title_bg=%23DDDF3A&icon=html5.svg&icon_color=%230C6EC5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseo-0&count_bg=%2311CB41&title_bg=%232C28FA&icon=&icon_color=%23FC99FF&title=HAPPY+DAY%21&edge_flat=false"/></a>
   
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-0&show_icons=true&theme=solarized-light)
-
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-0&layout=compact">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-0&show_icons=true&theme=solarized-light)
 
 ####  :clipboard: Languages and Framework that I've Used ✨
  <br/>
