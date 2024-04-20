@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Tessa's%20log&fontSize=50) 
  <br/>
 
-<br/>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseo-0&count_bg=%2374BBFF&title_bg=%23F6A8A8&icon=github.svg&icon_color=%23525DF4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
